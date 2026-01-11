@@ -17,6 +17,7 @@ export default function Home() {
           <h1 className="text-3xl font-semibold tracking-tight">
             Welcome to The Cozy Corner
           </h1>
+          
           <p className="mt-4 text-zinc-600">
             A cozy online bookstore with hand-picked recommendations for every
             reader.
